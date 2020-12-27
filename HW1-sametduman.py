@@ -1,0 +1,12 @@
+data1=input("Lutfen Ilk Verinizi giriniz: ")
+data2=input("Lutfen Ikinci Verinizi giriniz: ")
+data3=input("Lutfen Ucuncu Verinizi giriniz: ")
+data4=input("Lutfen Dorduncu Verinizi giriniz: ")
+data5=input("Lutfen Besinci Verinizi giriniz: ")
+print("***************************************************")
+
+print("1. Veri: ",data1,"---- Veri Tipi: ",type(data1))
+print("2. Veri: ",data2,"---- Veri Tipi: ",type(data1))
+print("3. Veri: ",data3,"---- Veri Tipi: ",type(data1))
+print("4. Veri: ",data4,"---- Veri Tipi: ",type(data1))
+print("5. Veri: ",data5,"---- Veri Tipi: ",type(data1))
